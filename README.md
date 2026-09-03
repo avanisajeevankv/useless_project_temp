@@ -2,47 +2,44 @@
 
 
 
-# [Project Name] 🎯
+# NAATILE MALAYALAM🎯
 
 
-## Basic Details
-### Team Name: [Name]
+## An authentic linguistic expedition into the spoken local slang, accents, and natural regional phrasing across all 14 districts of Kerala
+### Team Name: LOOP
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: ANUJA JAYAN - LBS INSTITUTE OF TECHNOLOGY FOR WOMEN
+- Member 2: AVANI K V- LBS INSTITUTE OF TECHNOLOGY FOR WOMEN
+
 
 ### Project Description
-[2-3 lines about what your project does]
+Naatile Malayalam is a Malayalam-to-Malayalam dialect translator that converts standard Malayalam into natural spoken dialects of Kerala’s 14 districts. It preserves the meaning and context while adapting local vocabulary, slang, and conversational style, making Kerala’s linguistic diversity interactive and fun.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Naatile Malayalam is built to solve a completely unnecessary but entertaining problem: understanding how the same Malayalam sentence would sound if spoken like a local from different districts of Kerala.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+It provides a completely unnecessary solution by converting the same Malayalam sentence into the natural local slang of different Kerala districts
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- FRONTEND:HTML,CSS JAVASCRIPT
+- Frameworks:React.js
+- Libraries :REACT ROUTER,AXIOS
+- Tools used:VSCODE 
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+npm install 
 
 # Run
-[commands]
+npm run dev
 
 ### Project Documentation
 For Software:
@@ -61,24 +58,7 @@ For Software:
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
@@ -89,9 +69,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- ANUJA JAYAN: IDEA PITCHING,IMPLEMENTATION
+- AVANI K V: IDEA PITCHING,IMPLEMENTATION
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
