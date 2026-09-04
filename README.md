@@ -45,14 +45,14 @@ npm run dev
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+!<img width="1920" height="1080" alt="Code space" src="https://github.com/user-attachments/assets/3767b417-e560-4bca-b4bc-c3894741bba1" />
+This screenshot shows the coding space..
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+!<img width="1920" height="1080" alt="deploying stage" src="https://github.com/user-attachments/assets/14bbfc84-ff16-420d-a3ee-5ac0ad0ce285" />
+At the deploying stage..
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+!<img width="1920" height="1080" alt="home overview" src="https://github.com/user-attachments/assets/7027e490-e564-404a-a28f-244fc80dc10f" />
+The final overview of the webapp
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
